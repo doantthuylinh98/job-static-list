@@ -12,7 +12,7 @@
 
 #### Mobile with filters
 
-![Design preview for the Job Listings coding challenge](./design/mobile-with-filter.jpg)
+![Design preview for the Job Listings coding challenge](./design/mobile-with-filters.jpg)
 
 ## Welcome! 👋
 
