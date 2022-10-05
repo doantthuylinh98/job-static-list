@@ -2,7 +2,17 @@
 
 ### [Live Demo](https://job-static-list.vercel.app/)
 
+#### Desktop Version
+
 ![Design preview for the Job Listings coding challenge](./design/desktop-preview.jpg)
+
+#### Desktop Active States 
+
+![Design preview for the Job Listings coding challenge](./design/active-states.jpg)
+
+#### Mobile with filters
+
+![Design preview for the Job Listings coding challenge](./design/mobile-with-filter.jpg)
 
 ## Welcome! 👋
 
