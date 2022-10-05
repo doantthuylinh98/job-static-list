@@ -1,5 +1,7 @@
 # Frontend Mentor - Job Listings Challenge
 
+[Live Demo](https://job-static-list.vercel.app/)
+
 ![Design preview for the Job Listings coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
